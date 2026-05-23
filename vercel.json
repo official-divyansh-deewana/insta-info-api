@@ -2,9 +2,6 @@
   "version": 2,
   "regions": ["sin1"],
   "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/api/index.js"
-    }
+    { "source": "/(.*)", "destination": "/api/index.js" }
   ]
 }
